@@ -1,3 +1,3 @@
-var a = require('learn-create-modules');
+var you = require('learn-create-modules');
 
-a();
+you();
