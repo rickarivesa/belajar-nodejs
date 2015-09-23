@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha 3-test-app/ -r should"
+    "test": "mocha 3-test-app/* -r should"
   },
   "author": "",
   "license": "ISC",
