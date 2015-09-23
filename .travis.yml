@@ -1,5 +1,5 @@
 language: node_js
 node_js:
 - '4'
-script:
-    - cd 3-test-app && npm install && npm test
+before_install:
+    - cd 3-test-app
