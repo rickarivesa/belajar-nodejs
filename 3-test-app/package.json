@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha $(find test -name '3-test-app/test') -r should"
+    "test": "mocha $(find 3-test-app -name 'test.js') -r should"
   },
   "author": "",
   "license": "ISC",
