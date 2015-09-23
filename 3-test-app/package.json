@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --recursive -r should"
+    "test": "mocha $(find test -name '3-test-app/test') -r should"
   },
   "author": "",
   "license": "ISC",
