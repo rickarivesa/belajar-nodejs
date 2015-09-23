@@ -1,6 +1,5 @@
 language: node_js
 node_js:
 - '4'
-branches:
-    only:
-        - 3-test-app
+script:
+    - cd 3-test-app && npm install && npm test
