@@ -4,4 +4,3 @@ node_js:
 env:
     global:
         - 3-test-app
-script: make test
