@@ -4,4 +4,4 @@ node_js:
 env:
     global:
         - 3-test-app
-script: test.js
+script: make test
