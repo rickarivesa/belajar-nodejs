@@ -1,4 +1,4 @@
-var you = require('learn-create-modules');
+var you = require('love-modules');
 
 describe ('love module', function() {
     // set of test
