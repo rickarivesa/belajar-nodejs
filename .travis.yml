@@ -1,4 +1,7 @@
 language: node_js
 node_js:
 - '4'
-
+env:
+    global:
+        - 3-test-app
+script: test.js
