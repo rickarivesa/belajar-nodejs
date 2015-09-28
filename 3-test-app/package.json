@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "learn-create-modules": "^1.0.0",
+    "love-modules": "^1.0.0",
     "mocha": "^2.3.3",
     "should": "^7.1.0"
   },
